@@ -8,11 +8,13 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    cursor: pointer;
 }
-.nav-logo p{
+.nav-logo a{
     color: #171717;
     font-size: 38px;
     font-weight: 600;
+    text-decoration: none;
 }
 .nav-menu{
     display: flex;
